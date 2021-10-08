@@ -1,2 +1,2 @@
 # gradyting20210612.github.io
-### 紀錄區域
+### 喜歡這個版面，歡迎大家clone使用XD
